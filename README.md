@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on **becoming a software developer**
-- 🌱 I’m currently learning **Ruby(on Rails), Go and Rust**
-- 👯 I’m looking to collaborate on **Code**
-- 🤔 I’m looking for help with **Clean Code**
-- 💬 Ask me about **Code**
-- 📫 How to reach me: **nick.flueckiger@renuo.ch**
-- 😄 Pronouns: **whatever floats your boat**
-- ⚡ Fun fact: **I will spend hours on a small bug ^^**
+I'm currently an intern working at @Renuo.
+We develop applications with Ruby on Rails, Elixir and Js-Frameworks.
 
+I'm interested in databases, the web, text editors and everything that is connected to vim or neovim.
+
+At the moment I'm trying to implement my own text editor :D **VOLT**
+
+
+Have a great day
