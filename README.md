@@ -1,11 +1,22 @@
-### Hi there 👋
+<div align="center">
 
-I'm currently an intern working at @Renuo.
-We develop applications with Ruby on Rails, Elixir and Js-Frameworks.
+</div>
 
-I'm interested in databases, the web, text editors and everything that is connected to vim or neovim.
+<p align="center">
+<b><a href="https://github.com/golang/go">Gopher</a></b>
+•
+<b><a href="https://github.com/neovim/neovim">(Neo)Vimer</a></b>
+•
+<b><a href="mailto:nick.flueckiger@renuo.ch"> Email me</a></b>
+•
+<b><a href="https://liberatnick.ch">My Blog</a></b>
+</p>
 
-At the moment I'm trying to implement my own text editor :D **VOLT**
+<p align="center">
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
+<img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+<img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ruby-%2357A143.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+</p>
 
-
-Have a great day
+## Here are something that I made.
