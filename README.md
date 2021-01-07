@@ -21,11 +21,11 @@
 
 ## Here are something that I made.
 
-### <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" /> Go
-- 
-### <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/> Rust
-- 
-### <img src="https://img.shields.io/badge/ruby-%2357A143.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> Ruby
-- 
-### <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> Nvim
-- [My configuration](https://github.com/Liberatys/configs/tree/main/nvim)
+### <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
+- [gopyCode](https://github.com/Liberatys/gopyCode) A utility to collect code into one big file
+### <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
+- [Lymn](https://github.com/Liberatys/Lymn) My try on writing an sql database
+### <img src="https://img.shields.io/badge/ruby-%2357A143.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+- [Sento](https://github.com/Liberatys/Sento) Configuration application for your devices
+### <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
+- [nvim](https://github.com/Liberatys/configs/tree/main/nvim) My Neovim configurations
