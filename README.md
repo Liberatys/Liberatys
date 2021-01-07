@@ -1,5 +1,5 @@
 <div align="center">
-
+  
 </div>
 
 <p align="center">
@@ -16,7 +16,16 @@
 <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" />
 <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/>
 <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ruby-%2357A143.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
+<img src="https://img.shields.io/badge/ruby-%2357A143.svg?&style=for-the-badge&logo=ruby&logoColor=white"/>
 </p>
 
 ## Here are something that I made.
+
+### <img src="https://img.shields.io/badge/go-%2300ADD8.svg?&style=for-the-badge&logo=go&logoColor=white" /> Go
+- 
+### <img src="https://img.shields.io/badge/rust-%23000000.svg?&style=for-the-badge&logo=rust&logoColor=white"/> Rust
+- 
+### <img src="https://img.shields.io/badge/ruby-%2357A143.svg?&style=for-the-badge&logo=ruby&logoColor=white"/> Ruby
+- 
+### <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/> Nvim
+- [My configuration](https://github.com/Liberatys/configs/tree/main/nvim)
