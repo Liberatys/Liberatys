@@ -29,3 +29,5 @@
 - [Sento](https://github.com/Liberatys/Sento) Configuration application for your devices
 ### <img src="https://img.shields.io/badge/neovim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white"/>
 - [nvim](https://github.com/Liberatys/configs/tree/main/nvim) My Neovim configurations
+### <img src="https://img.shields.io/badge/swift-%2300ADD8.svg?&style=for-the-badge&logo=swift&logoColor=white" />
+- 
