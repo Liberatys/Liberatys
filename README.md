@@ -1,9 +1,5 @@
 [Skip README.md](#skip)
 
-<p align="center" style="font-size: 1.25em">
-  Hello world 👋🐱‍💻
-</p>
-
 ## Intro
 
 ![open source](https://img.shields.io/badge/open_source-%E2%9D%A4-FF506D)
