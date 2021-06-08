@@ -5,6 +5,7 @@
 ![open source](https://img.shields.io/badge/open_source-%E2%9D%A4-FF506D)
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-19F9D8.svg)](http://makeapullrequest.com)
 ![open source](https://img.shields.io/badge/i18n-🇬🇧-FFCC99)
+[![StackShare](http://img.shields.io/badge/tech-stack-0690fa.svg?style=flat)](https://stackshare.io/liberatys/my-stack)
 
 ## Features
 
