@@ -14,7 +14,7 @@ A few things about me:
 - :man_technologist: full-time at [renuo.ch](https://renuo.ch)
 - :seedling: Open Source / Design-Patterns
 - :telescope: always discovering
-- :pencil: Neovim
+- :pencil: Neovim / Emacs
 - :penguin: Linux/GNU Arch
 - :rocket: Dark theme
 
